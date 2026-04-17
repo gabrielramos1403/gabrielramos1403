@@ -1,9 +1,13 @@
 ## 👋 Gabriel Ramos Moreira
 
 🎓 Studying **Computer Science** at **FIAP (Faculdade de Informática e Administração Paulista)**.
+
 💻 Passionate about solving problems and building practical solutions using knowledge from both academic and self-taught learning.
+
 🤖 Currently deepening expertise in **Machine Learning**, completing a long-duration course focused on real-world applications.
+
 📈 Also experienced in the **financial market**, managing crypto portfolios and operating in **day trade**.
+
 🚀 Passionate about **Artificial Intelligence, Data Science, and Software Development**, with a continuous learning mindset.
 
 ---
